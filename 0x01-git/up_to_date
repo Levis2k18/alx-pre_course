@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 git pull https://github.com/Levis2k18/alx-pre_course.git
 $git add up_to_date
 $git pull
 >>>>>>> a173a1fdcd75a39299c6d0097dc09d0feb7bb924
+=======
+$git add up_to_date
+$git pull
+>>>>>>> 5859d96c6a632ae057393102d88535c670aafa27
